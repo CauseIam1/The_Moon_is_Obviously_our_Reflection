@@ -24,11 +24,11 @@
 
 ## The next two images come compliments of Vibes of the Cosmos. It clearly shows that the moon is our reflection. Thanks VOC, your level of detail in your book, it is amazing.
 
-**![VOC Moon](Reflection Earth.png)**
+**![VOC Moon](Reflection_Earth.png)**
 
 ## Here's a little bit of a close-up for you.
 
-**![VOC close-up](Reflection Earth closer.png)**
+**![VOC close-up](Reflection_Earth_closer.png)**
 
 # 2. The Topographical Reflection
 
@@ -46,11 +46,11 @@
 
 ## Let's show a little bit more proof. Have a look at this picture and tell me how it's possible that there are clouds further away than the sun is, which is clearly visible in this picture.
 
-**![Think depth](Why are there clouds behind the sun.png)**
+**![Think depth](Whysun.png)**
 
 ## Have a close look at this image. It clearly shows the twenty-eight days in a lunar cycle. Which would be very logical if you needed to come up with a calendar.
 
-**![Moon cycle](We're not moving.png)**
+**![Moon cycle](no_moving.png)**
 
 ## I also find it very strange that all the natives use the turtle as their calendar. Being a male, I'm not quite sure, but I could swear that the female body runs on a twenty-eight day cycle.
 

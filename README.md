@@ -64,6 +64,6 @@
 
 **![Eye](Eye.png)**
 
-# Now you can call me crazy, but there once was a guy named Noah who everyone else called crazy as well, until the day it started raining.
+## Now you can call me crazy, but there once was a guy named Noah who everyone else called crazy as well, until the day it started raining.
 
-## Which will tie into the next data drop, MARS our original home until it's atmosphere was destroyed and they had to move to the next closet crater, Sulpicius Gallus M - aka Earth
+## Which will tie into the next data drop, Hadley C - aka MARS was humans original home until it's atmosphere was destroyed and they had to move to the next closet crater, Sulpicius Gallus M - aka Earth
